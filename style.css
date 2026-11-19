@@ -110,6 +110,12 @@ main h2 {
     text-align: center;
 }
 
+.artistas img {
+    width: 300px;
+    height: auto;
+    margin: 10px;
+}
+
 .artistas h3 {
     font-family: 'Times New Roman', Times, serif;
     color: #713e4b;
