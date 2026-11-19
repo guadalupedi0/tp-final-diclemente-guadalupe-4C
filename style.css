@@ -83,6 +83,11 @@ footer p {
     margin: 10px;
 }
 
+main h2 {
+    color: #a9b8a5;
+    text-align: center;
+}
+
 .obra h3 {
     font-family: 'Times New Roman', Times, serif;
     color: #713e4b;
