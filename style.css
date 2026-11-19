@@ -101,3 +101,25 @@ main h2 {
     text-align: center;
     line-height: 1.5;
 }
+
+.artistas {
+    background-color: #ffffff;
+    border: 2px solid #d9c8c2;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.artistas h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #713e4b;
+    text-align: center;
+    font-size: 22px;
+}
+
+.artistas p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #352D29;
+    text-align: center;
+    line-height: 1.5;
+}
