@@ -157,3 +157,10 @@ main h2 {
     text-align: center;
     line-height: 1.5;
 }
+
+li {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #352D29;
+    text-align: left;
+    line-height: 1.5;  
+}
