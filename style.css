@@ -158,9 +158,15 @@ main h2 {
     line-height: 1.5;
 }
 
-li {
+.artista ul {
    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #352D29;
     text-align: left;
-    line-height: 1.5;  
+    line-height: 1.8;  
+    padding-left: 40px;
+    margin: 15px;
+}
+
+.artista li {
+    margin: 8px;
 }
