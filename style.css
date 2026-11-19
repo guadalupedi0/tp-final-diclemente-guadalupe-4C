@@ -5,15 +5,17 @@ body {
 }
 
 header {
-    background-color: #642d3d;
-    color: white;
+    background-color: #F2EBDD;
+    color: #642d3d;
     padding: 20px;
+    margin: 10px;
     text-align: center;
+    text-decoration: none;
 }
 
 .logo {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: auto;
     margin: 10px;
 }
 
@@ -27,6 +29,7 @@ p {
 h1, h2, h3 {
     font-family: 'Times New Roman', Times, serif;
     color: #642d3d;
+    text-align: center;
 }
 
 main {
@@ -49,8 +52,11 @@ main {
 
 footer {
     background-color: #642d3d;
-    color: white;
     padding: 20px;
     margin-top: 30px;
     text-align: center;
+}
+
+footer p {
+    color: white;
 }
